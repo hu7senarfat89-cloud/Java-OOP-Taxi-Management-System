@@ -1,0 +1,25 @@
+S8 Karim Abdullah Acre 0548888888
+S6 Amir Asad Jaffa 0546666666
+S16 Lior Ashkenazi Bat Yam 0542222222
+S21 Fadi Ayoub Eilat 0541111112
+S9 Hila Azulai Beersheba 0549999999
+S15 Omer Barak Kfar Saba 0541616161
+S19 Nour Bishara Majd al-Krum 0542525252
+S1 Avi Cohen Tel Aviv 0542341104
+S24 Tal Friedman Kiryat Ono
+S22 Or Gabay Ashkelon 0542828282
+S5 Gal Gadot Rosh HaAyin 0545555555
+S14 Dalia Hamdan Tira 0541515151
+S2 Rana Khalil Haifa 0542222222
+S3 Moshe Levi Jerusalem 0543333333
+S10 Tarek Odeh Ramla 0541010101
+S13 Nadav Peretz Rehovot 0541414141
+S20 Bar Refaeli Hod HaSharon 0542626262
+S4 Layla Said Nazareth 0544444444
+S12 Farid Shaheen Sakhnin 0541313131
+S18 Adi Shalev Herzliya 0542424242
+S11 Lihi Shavit Netanya 0541212121
+S25 Majd Suleiman Sakhnin 0546574358
+S7 Shanin Weiss Givatayim 0547777777
+S17 Khaled Zoubi Nazareth 0542323000
+S26 testing save hi 0523552355

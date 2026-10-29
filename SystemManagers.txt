@@ -1,0 +1,19 @@
+M1 Youssef Ghanayim 0521112000 Nazareth
+M2 Noa Cohen 0522223344 Tel Aviv
+M3 Mohammed Khatib 0523334455 Haifa
+M4 Tamar Levi 0524445566 Jerusalem
+M5 Ahmed Mansour 0525556677 Jaffa
+M6 Shira Katz 0526667788 Ramat Gan
+M7 Ali Awad 0527778899 Acre
+M8 Maya Goldstein 0528889900 Herzliya
+M9 Hassan Jabarin 0529990011 Umm al-Fahm
+M10 Itay Mizrahi 0520001122 Rishon LeZion
+M11 Lina Nassar 0531112233 Shefa-Amr
+M12 Ron Friedman 0532223344 Petah Tikva
+M13 Ibrahim Agbaria 0533334455 Sakhnin
+M14 Dana Biton 0534445566 Ashdod
+M15 Omar Zoabi 0535556677 Tamra
+M16 Yael Rosenberg 0536667788 Holon
+M17 Samir Salameh 0537778899 Lod
+M18 Yara Masri 0541717171 Haifa
+M19 Idan Bar-Lev 0541818181 Raanana

@@ -1,0 +1,131 @@
+[Managers]
+M5,Ahmed,Mansour,0525556677,Jaffa
+M7,Ali,Awad,0527778899,Acre
+M14,Dana,Biton,0534445566,Ashdod
+M9,Hassan,Jabarin,0529990011,Umm al-Fahm
+M13,Ibrahim,Agbaria,0533334455,Sakhnin
+M19,Idan,Bar-Lev,0541818181,Raanana
+M10,Itay,Mizrahi,0520001122,Rishon LeZion
+M11,Lina,Nassar,0531112233,Shefa-Amr
+MM1,system,12345,Maria,Fahoum,0500000000,Nazareth
+M8,Maya,Goldstein,0528889900,Herzliya
+M3,Mohammed,Khatib,0523334455,Haifa
+M2,Noa,Cohen,0522223344,Tel Aviv
+M15,Omar,Zoabi,0535556677,Tamra
+M12,Ron,Friedman,0532223344,Petah Tikva
+M17,Samir,Salameh,0537778899,Lod
+MM2,admin,admin,Shadi,Asakla,0501234567,Haifa
+M6,Shira,Katz,0526667788,Ramat Gan
+M4,Tamar,Levi,0524445566,Jerusalem
+M16,Yael,Rosenberg,0536667788,Holon
+M18,Yara,Masri,0541717171,Haifa
+M1,Youssef,Ghanayim,0521112233,Nazareth
+
+[Subscribers]
+S8,Karim,Abdullah,0548888888,Acre
+S6,Amir,Asad,0546666666,Jaffa
+S16,Lior,Ashkenazi,0542222222,Bat Yam
+S21,Fadi,Ayoub,0541111112,Eilat
+S9,Hila,Azulai,0549999999,Beersheba
+S15,Omer,Barak,0541616161,Kfar Saba
+S19,Nour,Bishara,0542525252,Majd al-Krum
+S1,Avi,Cohen,0542341104,Tel Aviv
+S5,Gal,Gadot,0545555555,Rosh HaAyin
+S14,Dalia,Hamdan,0541515151,Tira
+S2,Rana,Khalil,0542222222,Haifa
+S3,Moshe,Levi,0543333333,Jerusalem
+S10,Tarek,Odeh,0541010101,Ramla
+S13,Nadav,Peretz,0541414141,Rehovot
+S20,Bar,Refaeli,0542626262,Hod HaSharon
+S4,Layla,Said,0544444444,Nazareth
+S12,Farid,Shaheen,0541313131,Sakhnin
+S18,Adi,Shalev,0542424242,Herzliya
+S11,Lihi,Shavit,0541212121,Netanya
+S7,Shani,Weiss,0547777777,Givatayim
+S17,Khaled,Zoubi,0542323232,Nazareth
+
+[Taxis]
+T1,false,35.0
+T2,false,40.0
+T3,false,45.0,true,10.0
+T4,false,50.0,true,12.0
+T7,false,30.0
+T8,false,55.0,true,13.0
+T9,false,32.0
+T10,false,38.0
+T11,false,33.0
+T12,false,48.0,false,15.0
+T14,false,36.0
+T15,false,52.0,true,11.0
+T16,true,39.0
+T18,true,58.0,true,14.0
+T19,true,31.0
+T20,true,41.0
+T21,true,49.0,true,10.0
+T23,false,37.0
+T24,false,53.0,false,16.0
+T25,true,42.0
+T27,false,56.0,true,12.0
+T28,true,34.0
+T29,false,51.0,true,11.0
+T30,true,43.0
+T32,true,35.0
+T33,false,54.0,false,17.0
+T34,true,44.0
+T36,false,60.0,true,15.0
+T37,true,38.0
+T38,true,46.0
+T39,true,57.0,true,14.0
+T40,true,47.0
+
+[Stations]
+"Haifa",T1,T2,T3,T20
+"Krayot",T4
+"Jerusalem",T16,T18,T19
+"Tel Aviv",T11,T12,T14,T15
+"Rishon LeZion",T21,T23,T24,T25
+"Ashdod",T27,T28,T29,T30
+"Netanya",T32,T33,T34
+"Beersheba",T36,T37,T38,T39,T40
+
+[ManagerTaxiAssignments]
+M5,T21,T23,T24,T25,T37
+M7,T32,T33,T34,T37
+M14,T36,T1
+M9,T1,T11,T16,T21
+M13,T10,T15,T20,T25
+M19,T1,T12,T23,T34,T40
+M10,T2,T7,T12
+M11,T3,T8,T18,T23
+M8,T36,T37,T38,T39,T40
+M3,T11,T12,T14,T15
+M2,T7,T8,T9,T10
+M15,T27,T32,T37,T2
+M12,T4,T9,T14,T19,T24
+M17,T29,T34,T39,T4,T8
+M6,T27,T28,T29,T30
+M4,T16,T18,T19,T20
+M16,T28,T33,T38,T3,T7
+M18,T30,T40,T9,T10
+M1,T1,T2,T3,T4
+
+[Orders]
+O1,M1,22,11,11,S1,T1
+O2,M1,30,5,10,S2,T2
+O3,M1,12,11,3,S3,T3
+O4,M2,11,8,9,S4,T4
+O7,M1,2,3,18,S7,T7
+O8,M2,9,7,21,S8,T8
+O9,M3,1,1,9,S9,T9
+O10,M4,28,2,12,S10,T10
+O11,M1,11,4,11,S11,T11
+O12,M2,23,6,17,S12,T12
+O14,M4,18,10,23,S14,T14
+O15,M1,12,12,15,S15,T15
+O16,M5,10,5,14,S16,T23
+O18,M7,12,7,16,S18,T29
+O19,M5,13,8,17,S19,T24
+O20,M6,14,9,18,S20,T27
+O21,M7,15,10,19,S21,T33
+O25,M8,11,11,11,S8,T36
+

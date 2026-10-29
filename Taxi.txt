@@ -1,0 +1,186 @@
+Taxi [taxiCode=T1, available=false, minPrice=35.0]
+  Responsible Managers:
+    ID: M14, Name: Dana Biton
+    ID: M9, Name: Hassan Jabarin
+    ID: M19, Name: Idan Bar-Lev
+    ID: M1, Name: Youssef Ghanayim
+
+Taxi [taxiCode=T2, available=false, minPrice=40.0]
+  Responsible Managers:
+    ID: M10, Name: Itay Mizrahi
+    ID: M15, Name: Omar Zoabi
+    ID: M20, Name: Samira Jaber
+    ID: M1, Name: Youssef Ghanayim
+
+ExpressTaxi [cityTaxi=true, extraPrice=10.0, taxiCode=T3, available=false, minPrice=45.0]
+  Responsible Managers:
+    ID: M21, Name: Eitan Segal
+    ID: M11, Name: Lina Nassar
+    ID: M16, Name: Yael Rosenberg
+    ID: M1, Name: Youssef Ghanayim
+
+ExpressTaxi [cityTaxi=true, extraPrice=12.0, taxiCode=T4, available=false, minPrice=50.0]
+  Responsible Managers:
+    ID: M22, Name: Aya Nabulsi
+    ID: M12, Name: Ron Friedman
+    ID: M17, Name: Samir Salameh
+    ID: M1, Name: Youssef Ghanayim
+
+Taxi [taxiCode=T7, available=false, minPrice=30.0]
+  Responsible Managers:
+    ID: M10, Name: Itay Mizrahi
+    ID: M2, Name: Noa Cohen
+    ID: M16, Name: Yael Rosenberg
+
+ExpressTaxi [cityTaxi=true, extraPrice=13.0, taxiCode=T8, available=false, minPrice=55.0]
+  Responsible Managers:
+    ID: M11, Name: Lina Nassar
+    ID: M2, Name: Noa Cohen
+    ID: M17, Name: Samir Salameh
+
+Taxi [taxiCode=T9, available=false, minPrice=32.0]
+  Responsible Managers:
+    ID: M2, Name: Noa Cohen
+    ID: M12, Name: Ron Friedman
+    ID: M18, Name: Yara Masri
+
+Taxi [taxiCode=T10, available=false, minPrice=38.0]
+  Responsible Managers:
+    ID: M13, Name: Ibrahim Agbaria
+    ID: M2, Name: Noa Cohen
+    ID: M18, Name: Yara Masri
+
+Taxi [taxiCode=T11, available=false, minPrice=33.0]
+  Responsible Managers:
+    ID: M9, Name: Hassan Jabarin
+    ID: M3, Name: Mohammed Khatib
+
+ExpressTaxi [cityTaxi=false, extraPrice=15.0, taxiCode=T12, available=false, minPrice=48.0]
+  Responsible Managers:
+    ID: M19, Name: Idan Bar-Lev
+    ID: M10, Name: Itay Mizrahi
+    ID: M3, Name: Mohammed Khatib
+
+Taxi [taxiCode=T14, available=false, minPrice=36.0]
+  Responsible Managers:
+    ID: M21, Name: Eitan Segal
+    ID: M3, Name: Mohammed Khatib
+    ID: M12, Name: Ron Friedman
+
+ExpressTaxi [cityTaxi=true, extraPrice=11.0, taxiCode=T15, available=false, minPrice=52.0]
+  Responsible Managers:
+    ID: M22, Name: Aya Nabulsi
+    ID: M13, Name: Ibrahim Agbaria
+    ID: M3, Name: Mohammed Khatib
+
+Taxi [taxiCode=T16, available=true, minPrice=39.0]
+  Responsible Managers:
+    ID: M9, Name: Hassan Jabarin
+    ID: M4, Name: Tamar Levi
+
+ExpressTaxi [cityTaxi=true, extraPrice=14.0, taxiCode=T18, available=false, minPrice=58.0]
+  Responsible Managers:
+    ID: M11, Name: Lina Nassar
+    ID: M4, Name: Tamar Levi
+
+Taxi [taxiCode=T19, available=false, minPrice=31.0]
+  Responsible Managers:
+    ID: M12, Name: Ron Friedman
+    ID: M4, Name: Tamar Levi
+
+Taxi [taxiCode=T20, available=true, minPrice=41.0]
+  Responsible Managers:
+    ID: M13, Name: Ibrahim Agbaria
+    ID: M4, Name: Tamar Levi
+
+ExpressTaxi [cityTaxi=true, extraPrice=10.0, taxiCode=T21, available=true, minPrice=49.0]
+  Responsible Managers:
+    ID: M5, Name: Ahmed Mansour
+    ID: M9, Name: Hassan Jabarin
+
+Taxi [taxiCode=T23, available=false, minPrice=37.0]
+  Responsible Managers:
+    ID: M5, Name: Ahmed Mansour
+    ID: M19, Name: Idan Bar-Lev
+    ID: M11, Name: Lina Nassar
+
+ExpressTaxi [cityTaxi=false, extraPrice=16.0, taxiCode=T24, available=false, minPrice=53.0]
+  Responsible Managers:
+    ID: M5, Name: Ahmed Mansour
+    ID: M12, Name: Ron Friedman
+    ID: M20, Name: Samira Jaber
+
+Taxi [taxiCode=T25, available=false, minPrice=42.0]
+  Responsible Managers:
+    ID: M5, Name: Ahmed Mansour
+    ID: M21, Name: Eitan Segal
+    ID: M13, Name: Ibrahim Agbaria
+
+ExpressTaxi [cityTaxi=true, extraPrice=12.0, taxiCode=T27, available=false, minPrice=56.0]
+  Responsible Managers:
+    ID: M15, Name: Omar Zoabi
+    ID: M6, Name: Shira Katz
+
+Taxi [taxiCode=T28, available=true, minPrice=34.0]
+  Responsible Managers:
+    ID: M6, Name: Shira Katz
+    ID: M16, Name: Yael Rosenberg
+
+ExpressTaxi [cityTaxi=true, extraPrice=11.0, taxiCode=T29, available=false, minPrice=51.0]
+  Responsible Managers:
+    ID: M17, Name: Samir Salameh
+    ID: M6, Name: Shira Katz
+
+Taxi [taxiCode=T30, available=true, minPrice=43.0]
+  Responsible Managers:
+    ID: M6, Name: Shira Katz
+    ID: M18, Name: Yara Masri
+
+Taxi [taxiCode=T32, available=true, minPrice=35.0]
+  Responsible Managers:
+    ID: M7, Name: Ali Awad
+    ID: M15, Name: Omar Zoabi
+
+ExpressTaxi [cityTaxi=false, extraPrice=17.0, taxiCode=T33, available=false, minPrice=54.0]
+  Responsible Managers:
+    ID: M7, Name: Ali Awad
+    ID: M16, Name: Yael Rosenberg
+
+Taxi [taxiCode=T34, available=true, minPrice=44.0]
+  Responsible Managers:
+    ID: M7, Name: Ali Awad
+    ID: M19, Name: Idan Bar-Lev
+    ID: M17, Name: Samir Salameh
+
+ExpressTaxi [cityTaxi=true, extraPrice=15.0, taxiCode=T36, available=false, minPrice=60.0]
+  Responsible Managers:
+    ID: M14, Name: Dana Biton
+    ID: M21, Name: Eitan Segal
+    ID: M8, Name: Maya Goldstein
+
+Taxi [taxiCode=T37, available=true, minPrice=38.0]
+  Responsible Managers:
+    ID: M5, Name: Ahmed Mansour
+    ID: M7, Name: Ali Awad
+    ID: M22, Name: Aya Nabulsi
+    ID: M8, Name: Maya Goldstein
+    ID: M15, Name: Omar Zoabi
+
+Taxi [taxiCode=T38, available=true, minPrice=46.0]
+  Responsible Managers:
+    ID: M21, Name: Eitan Segal
+    ID: M8, Name: Maya Goldstein
+    ID: M16, Name: Yael Rosenberg
+
+ExpressTaxi [cityTaxi=true, extraPrice=14.0, taxiCode=T39, available=true, minPrice=57.0]
+  Responsible Managers:
+    ID: M8, Name: Maya Goldstein
+    ID: M17, Name: Samir Salameh
+    ID: M20, Name: Samira Jaber
+
+Taxi [taxiCode=T40, available=true, minPrice=47.0]
+  Responsible Managers:
+    ID: M19, Name: Idan Bar-Lev
+    ID: M8, Name: Maya Goldstein
+    ID: M18, Name: Yara Masri
+
